@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+.content{
+    margin-top: 50px;
+    height: 300px;
+    width: 400px;
+    /* background-color: azure; */
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.cointainer{
+    margin-top: 100px;
+    height: 400px;
+    width: 500px; 
+    border: 1px solid;
+    background-color: white
+}
+button{
+    margin-left: 20px;
+    font-size: large;
+    border: 0cap;
+    background-color: white;
+}
